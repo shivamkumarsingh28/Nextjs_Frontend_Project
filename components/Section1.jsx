@@ -3,7 +3,7 @@ import { section1data } from './section1data';
 import Image from 'next/image'
 
 
-const Section1 = () => {
+export const Section1 = () => {
   return (
     <div className="bg-white py-24 sm:py-32">
   <div className="mx-auto max-w-7xl px-6 lg:px-8">
