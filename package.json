@@ -1,0 +1,42 @@
+{
+  "name": "nextjs_frontend_project",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.7.17",
+    "@heroicons/react": "^2.0.18",
+    "gsap": "^3.12.2",
+    "next": "12.2.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.4.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.7",
+    "eslint": "8.18.0",
+    "eslint-config-next": "12.2.0",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.1.4"
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivamkumarsingh28/Nextjs_Frontend_Project.git"
+  },
+  "keywords": [
+    "saeeam"
+  ],
+  "author": "saeeam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivamkumarsingh28/Nextjs_Frontend_Project/issues"
+  },
+  "homepage": "https://github.com/shivamkumarsingh28/Nextjs_Frontend_Project#readme"
+}
