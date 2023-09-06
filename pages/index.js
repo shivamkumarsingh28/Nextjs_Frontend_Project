@@ -1,5 +1,5 @@
 import Head from 'next/head';
-import Hero from '../components/Hero';
+import Hero from '@/components/Hero';
 import { Section1 } from '@/components/section1';
 import { Section2 } from '@/components/Section2';
 import { Section3 } from '@/components/Section3';
