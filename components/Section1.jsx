@@ -14,7 +14,7 @@ const Section1 = () => {
             <div key={index} className="flex max-w-xl flex-col items-start justify-between">
       <article>
         <div className="flex items-center gap-x-4 text-xs">
-          <time datetime="2020-03-16" className="text-gray-500">{data.date}</time>
+          <time dateTime="2020-03-16" className="text-gray-500">{data.date}</time>
           <a href="#" className="relative z-10 rounded-full bg-gray-50 px-3 py-1.5 font-medium text-gray-600 hover:bg-gray-100">{data.tag}</a>
         </div>
         <div className="group relative">
