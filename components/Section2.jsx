@@ -4,7 +4,7 @@ import Image from 'next/image'
 import { useLayoutEffect, useRef } from "react";
 import { gsap } from "gsap/dist/gsap";
 
-const Section2 = () => {
+export const Section2 = () => {
   const root = useRef();
 
   useLayoutEffect(() => {
